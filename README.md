@@ -1,17 +1,24 @@
 ## GHOST-1
 
-A Drone made with a transceiver and flight controller that I made.
+A Drone made with a transceiver and flight controller that I made. There is nothing much to say about this because it speaks for itself. Well it's ment to  be fast. And one of the most fun thing about this is its fully diy. From the trasmitter to the flight controller.  The firmware for the flight controller is from opensource Betaflight github. 
 
 ![](Images/Overall.png)
 
 ![](Images/Frame.png)
 
+## Controlling
 
 This is the transmitter that's used. Checkout https://github.com/VampireBandit/Transceiver_101
-![](Images/Transmitter.png)
+
+<img width="1126" height="576" alt="Exploded" src="https://github.com/user-attachments/assets/1937e55b-916c-409a-b632-54991afe1464" />
+
 
 
 ![](Images/3D_receiver.png)
+
+## Cortex
+
+The flight controller is called "Cortex". This is made using an esp32 and an MPU6050 module. This will allow the drone to be able to load Betaflight firmware in it. The betaflight firmware is taken from the git for the open source betaflight. 
 
 ![](Images/3D_Cortex.png)
 
