@@ -39,6 +39,7 @@ The flight controller is called "Cortex". This is made using an esp32 and an MPU
 ## BOM
 | Name | Purpose | Quantity | Total Cost | Link | Distributor |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **M3 screws** | Holding the case | 8 | 3.44 | [Link](https://wv) | Aliexpress |
 | **NRF module** | radio transmission | 1 | 5.42 | [Link](https://wv) | Aliexpress |
 | **Esp32_cAM** | Camera | 1 | 12.82 | [Link](https://wv) | Aliexpress |
 | **Arduino_nano** | Receiver node | 1 | 5 | [Link](https://wv) | Aliexpress |
@@ -58,6 +59,5 @@ The flight controller is called "Cortex". This is made using an esp32 and an MPU
 | **Antenna** | Receiver antenna | 1 | 4.75 | [Link](https://wv) | Aliexpress |
 | **Receiver Module** | Radio transmission | 1 | 5.62 | [Link](https://wv) | Aliexpress |
 | **LM1117T-3.3** | Voltage regulator | 1 | 13.44 | [Link](https://wv) | Aliexpress |
-| **Grand Total** | | | **300.7** | | |
-
+| **Grand Total** | | | **304.14** | | |
 Made by Rubaiyat_Islam
